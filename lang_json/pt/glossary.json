@@ -3,8 +3,13 @@
     "keyDeep": {
         "inner": "valor interno"
     },
-    "keyNesting": "reuse $t(keyDeep.inner)",
+    "keyNesting": "reutilizar $t(keyDeep.inner)",
     "keyInterpolate": "substua este {{value}}",
     "keyInterpolateUnescaped": "substitua este {{- value}}",
-    "keyInterpolateWithFormatting": "substitua este {{value, format}}"
+    "keyInterpolateWithFormatting": "substitua este {{value, format}}",
+    "keyContext_male": "a variante masculina",
+    "keyContext_female": "a variante feminina",
+    "keyPluralSimple": "o singular",
+    "keyPluralSimple_plural": "o plural",
+    "keyPluralMultipleEgArabic_0": "a forma plural 0"
 }
