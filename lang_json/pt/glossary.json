@@ -11,5 +11,9 @@
     "keyContext_female": "a variante feminina",
     "keyPluralSimple": "o singular",
     "keyPluralSimple_plural": "o plural",
-    "keyPluralMultipleEgArabic_0": "a forma plural 0"
+    "keyPluralMultipleEgArabic_0": "a forma plural 0",
+    "keyPluralMultipleEgArabic_1": "a forma plural 1",
+    "keyPluralMultipleEgArabic_2": "a forma plural 2",
+    "keyPluralMultipleEgArabic_3": "a forma plural 3",
+    "keyPluralMultipleEgArabic_4": "a forma plural 4"
 }
