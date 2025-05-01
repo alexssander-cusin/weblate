@@ -1,1 +1,10 @@
-{}
+{
+    "key": "valor",
+    "keyDeep": {
+        "inner": "valor interno"
+    },
+    "keyNesting": "reuse $t(keyDeep.inner)",
+    "keyInterpolate": "substua este {{value}}",
+    "keyInterpolateUnescaped": "substitua este {{- value}}",
+    "keyInterpolateWithFormatting": "substitua este {{value, format}}"
+}
