@@ -1,5 +1,5 @@
 <?php
 return [
-    'welcome' => '',
-    'apples' => '',
+    'welcome' => 'Bem-vindo ao nosso aplicativo',
+    'apples' => 'Há uma maçã|Há muitas maçãs|',
 ];
