@@ -2,13 +2,13 @@
 return [
     'welcome' => 'Welcome to our application',
     'apples' => 'There is one apple|There are many apples',
-    'new' => 'new',
+    'new' => 'news',
     'array' => [
-        'new' => 'new array',
+        'new' => 'news array',
         'nested' => [
-            'new' => 'new nested array',
+            'new' => 'news nested array',
             'another' => [
-                'new' => 'new another nested array',
+                'new' => 'news another nested array',
             ],
         ],
     ],
