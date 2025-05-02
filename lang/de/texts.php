@@ -1,10 +1,10 @@
 <?php
 return [
-    'welcome' => '',
+    'welcome' => 'Willkommen in unserer Anwendung',
     'apples' => '',
-    'new' => '',
+    'new' => 'neu',
     'array' => [
-        'new' => '',
+        'new' => 'neues Array',
         'nested' => [
             'new' => '',
             'another' => [
